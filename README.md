@@ -232,3 +232,4 @@ CTRL + C
 ```
 
 pada terminal yang ingin dihentikan.
+
