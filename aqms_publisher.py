@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-Air Quality Monitoring System - MQTT Publisher
-Mengirimkan data sensor simulasi (PM2.5, Temperature, Humidity) ke MQTT Broker
-
-Author: Mahasiswa Teknik Komputer
-Date: 2025
-License: MIT
-"""
 
 import paho.mqtt.client as mqtt
 import json
