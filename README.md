@@ -1,6 +1,5 @@
 # Air Quality Monitoring System (AQMS) using MQTT
 
-## Identitas
 
 **Nama:** Sekar Indriani Dzakirah  
 **NIM:** 235150300111039  
